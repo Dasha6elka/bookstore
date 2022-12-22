@@ -27,7 +27,7 @@
         "express-pino-logger": "^4.0.0",
         "helmet": "^3.21.2",
         "jest": "^24.9.0",
-        "jsonwebtoken": "^8.5.1",
+        "jsonwebtoken": "^9.0.0",
         "mysql2": "^2.1.0",
         "nodemon": "^2.0.2",
         "pino": "^5.16.0",
